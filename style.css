@@ -1,12 +1,12 @@
 body{
-background-color: rgb(93, 179, 171);
+background-color: rgb(152, 236, 228);
 color: rgb(19, 19, 19);
 font-size: 40px;
 }
 h1{
 text-align: center;
-border: solid rgb(25, 117, 17);
-background-color: rgb(25, 117, 17);
+border: solid rgb(92, 155, 86);
+background-color: rgb(92, 155, 86);
 }
 .borda{
 border: solid rgb(126, 79, 141);    
