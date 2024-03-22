@@ -6,6 +6,7 @@ font-size: 40px;
 h1{
 text-align: center;
 border: solid rgb(25, 117, 17);
+background-color: rgb(25, 117, 17);
 }
 .borda{
 border: solid rgb(126, 79, 141);    
