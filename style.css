@@ -2,9 +2,11 @@ body{
 background-color: rgb(93, 179, 171);
 color: rgb(19, 19, 19);
 font-size: 40px;
-border: solid blue;
 }
 h1{
 text-align: center;
 border: solid red;
+}
+.borda{
+border: solid rgb(126, 79, 141);    
 }
