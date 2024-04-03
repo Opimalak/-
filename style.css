@@ -1,3 +1,6 @@
+h6{
+    font-size: 1100;
+    }
 body{
 background-color: rgb(78, 78, 78);
 font-size: 30px;
@@ -6,7 +9,4 @@ color: white;
 h1{
 color: white;
 text-align: center;
-}
-h6{
-font-size: 1100;
 }
